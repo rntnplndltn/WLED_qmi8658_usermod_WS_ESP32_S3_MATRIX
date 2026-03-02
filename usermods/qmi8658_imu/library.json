@@ -1,0 +1,9 @@
+{
+  "name": "qmi8658_imu",
+  "version": "1.0.0",
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"],
+  "build": {
+    "libArchive": false
+  }
+}
